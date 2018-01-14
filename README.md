@@ -20,7 +20,7 @@ So all the best for your battle...
 
 The project has basically GameLauncher.java which is the starting point of application. 
 
-In this app you have **Game.java** file which is bieng extended by **Avengers.java** file. Here you get to set diffrent descriptions to your application. So you can change the theme from Avenders to any other theme and can add your own flavours to the game.
+In this app you have **Game.java** file which is bieng extended by **Avengers.java** file. Here you get to set diffrent descriptions to your application. So you can change the theme from Avengers to any other theme and can add your own flavours to the game.
 
 Also you can set multiple games parllelly all you have to do is extend the **Game.java** and in **GameLauncher.java** in chooseGame() method change the defaulted game from to your choice.
 
